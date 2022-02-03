@@ -8,5 +8,5 @@ Mes passe-temps sont variés, j'aime bien jouer à League of Legends.
 Voici quelques un de mes projets.                                        
 /medias/capture1.png
 ![alt text](/medias/capture1.png)
-![alt text](/medias/capture1.png)
+![alt text](/medias/capture2.png)
 ![alt text](/medias/capture1.png)
